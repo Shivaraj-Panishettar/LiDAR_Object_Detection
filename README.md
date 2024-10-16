@@ -11,7 +11,7 @@ In recent years, Lidar (Light Detection and Ranging) has emerged as a game-chang
 ### 1. KITTI
 The KITTI dataset is a cornerstone in the realm of 3D object detection. Collected from real-world driving scenarios, it features a rich set of annotated images alongside Lidar data. It offers a variety of challenging conditions, making it an ideal benchmark for evaluating detection algorithms.
 
-### 2. nuScenes
+### 2. NuScenes
 The nuScenes dataset takes things up a notch! With a robust collection of urban driving scenes, this dataset includes not only Lidar data but also synchronized camera and radar inputs. It provides comprehensive annotations for a diverse array of object classes, pushing the boundaries of what's possible in object detection.
 
 ## 🤖 Models
