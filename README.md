@@ -24,6 +24,9 @@ MMDetection is an open-source toolbox built on PyTorch that’s known for its fl
 ### **OpenPCDet**
 OpenPCDet specializes in 3D object detection and is tailored specifically for processing point cloud data. It provides a comprehensive set of implementations for several state-of-the-art algorithms. This toolbox is perfect for real-time applications, enabling efficient and accurate detection of objects in dynamic environments.
 
+### **ComplexV4**
+ComplexV4 is an advanced architecture designed for 3D object detection, focusing on enhancing the accuracy and efficiency of Lidar data processing. With its unique approach to feature extraction and processing, ComplexV4 achieves impressive results on benchmark datasets. It’s particularly well-suited for environments with high object density, making it a valuable addition to our toolkit.
+
 ## 🚀 Techniques
 
 Here are some key techniques we’ll be exploring:
@@ -37,4 +40,3 @@ Voxelization is the process of converting point clouds into a 3D grid (or voxel 
 ---
 
 We’re excited to embark on this journey of Lidar object detection together! Feel free to explore the code, contribute your ideas, or simply reach out if you have any questions. Let’s push the boundaries of what’s possible in 3D perception!
-
